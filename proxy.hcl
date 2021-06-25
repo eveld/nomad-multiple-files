@@ -1,4 +1,4 @@
-job "proxy" {
+job "demo-proxy" {
   datacenters = ["dc1"]
 
   group "proxy" {
