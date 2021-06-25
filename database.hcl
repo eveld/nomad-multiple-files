@@ -1,4 +1,4 @@
-job "database" {
+job "demo-database" {
   datacenters = ["dc1"]
 
   group "database" {
