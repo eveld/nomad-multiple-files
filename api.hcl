@@ -1,4 +1,4 @@
-job "api" {
+job "demo-api" {
   datacenters = ["dc1"]
 
   group "api" {
